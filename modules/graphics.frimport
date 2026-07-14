@@ -1,0 +1,8 @@
+module graphics
+
+command logo
+
+create:
+    image "logo.png"
+    text "FrImport"
+    size 500x500
