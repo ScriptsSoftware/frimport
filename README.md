@@ -2,10 +2,9 @@
 
 FrImport is a custom programming language with a module system.
 
-# chmod a interpreter.js
-chmod +x interpreter.js
-
-## Run
+## Install
 
 ```bash
-./interpreter.js main.frimport
+git clone https://github.com/ScriptsSoftware/frimport.git
+cd frimport
+chmod +x interpreter.js
