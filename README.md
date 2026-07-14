@@ -1,4 +1,5 @@
-# FrImport
+![FrImport Logo](frimport.jpg)
+# FrImport 
 
 FrImport is a custom programming language with a module system.
 
