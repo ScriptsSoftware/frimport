@@ -1,0 +1,6 @@
+module importer
+
+command print
+
+execute:
+    console.log(text)
