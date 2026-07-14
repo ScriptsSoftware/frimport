@@ -1,0 +1,7 @@
+import system
+
+Module
+console.frimport
+
+print:
+    "Hola desde frimport"
